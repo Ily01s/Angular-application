@@ -1,0 +1,145 @@
+{
+  "utilisateurs": [
+    {
+      "email": "khomsi.majid@gmail.com",
+      "password": "2001",
+      "confirmPassword": "2001",
+      "id": 13
+    },
+    {
+      "email": "kh",
+      "password": "00",
+      "confirmPassword": "00",
+      "id": 62
+    }
+  ],
+  "cartes_graphiques": [],
+  "commandes": [
+    {
+      "utilisateurId": 62,
+      "produits": [
+        {
+          "id": 3,
+          "nom": "NVIDIA RTX 3090",
+          "prix": 1499.99,
+          "description": "La plus puissante des cartes NVIDIA, parfaite pour le gaming extrême et la création 3D.",
+          "marque": "NVIDIA",
+          "image": "../../../../../assets/images/RTX3090.png",
+          "quantite": 2
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "Lycee al jabre",
+        "adresse": "11 rue ledru rollin dijon 21000",
+        "ville": "Dijon"
+      },
+      "total": 2999.98,
+      "id": 14
+    },
+    {
+      "utilisateurId": 62,
+      "produits": [
+        {
+          "id": 2,
+          "nom": "AMD Radeon RX 6800 XT",
+          "prix": 649.99,
+          "description": "Offre d'excellentes performances en jeux grâce à son architecture RDNA 2.",
+          "marque": "AMD",
+          "image": "../../../../../assets/images/RX6800XT.png",
+          "quantite": 2
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "Lycee al jabre",
+        "adresse": "11 rue ledru rollin dijon 21000",
+        "ville": "Dijon"
+      },
+      "total": 1299.98,
+      "id": 15
+    },
+    {
+      "utilisateurId": 62,
+      "produits": [
+        {
+          "id": 2,
+          "nom": "AMD Radeon RX 6800 XT",
+          "prix": 649.99,
+          "description": "Offre d'excellentes performances en jeux grâce à son architecture RDNA 2.",
+          "marque": "AMD",
+          "image": "../../../../../assets/images/RX6800XT.png",
+          "quantite": 1
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "Lycee al jabre",
+        "adresse": "11 rue ledru rollin dijon 21000",
+        "ville": "Dijon"
+      },
+      "total": 649.99,
+      "id": 16
+    },
+    {
+      "utilisateurId": 13,
+      "produits": [
+        {
+          "id": 1,
+          "nom": "NVIDIA RTX 3080",
+          "prix": 699.99,
+          "description": "Carte graphique haut de gamme idéale pour le gaming en 4K et le rendu professionnel.",
+          "marque": "NVIDIA",
+          "image": " ../../../../../assets/images/RTX3080.png",
+          "quantite": 2
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "ABDELMAJID KHOMSI EL HASSOUNI",
+        "adresse": "11 Rue Ledru Rollin",
+        "ville": "Dijon - (21000)"
+      },
+      "total": 1399.98,
+      "id": 17
+    },
+    {
+      "utilisateurId": 13,
+      "produits": [
+        {
+          "id": 2,
+          "nom": "AMD Radeon RX 6800 XT",
+          "prix": 649.99,
+          "description": "Offre d'excellentes performances en jeux grâce à son architecture RDNA 2.",
+          "marque": "AMD",
+          "image": "../../../../../assets/images/RX6800XT.png",
+          "quantite": 1
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "ABDELMAJID KHOMSI EL HASSOUNI",
+        "adresse": "11 Rue Ledru Rollin",
+        "ville": "Dijon - (21000)"
+      },
+      "total": 649.99,
+      "id": 18
+    },
+    {
+      "utilisateurId": 62,
+      "produits": [
+        {
+          "id": 3,
+          "nom": "NVIDIA RTX 3090",
+          "prix": 1499.99,
+          "description": "La plus puissante des cartes NVIDIA, parfaite pour le gaming extrême et la création 3D.",
+          "marque": "NVIDIA",
+          "image": "../../../../../assets/images/RTX3090.png",
+          "quantite": 2
+        }
+      ],
+      "informationsLivraison": {
+        "nomDestinataire": "Lycee al jabre",
+        "adresse": "11 rue ledru rollin dijon 21000",
+        "ville": "Dijon"
+      },
+      "total": 2999.98,
+      "id": 19
+    }
+  ]
+}
